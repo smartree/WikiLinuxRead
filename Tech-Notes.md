@@ -6,3 +6,6 @@
 **vim**
  * [[vim列编辑]]
   
+**mac**
+ * [[mac下vim编译安装]]
+ * [[mac下vim taglist无效解决方法]]
