@@ -4,6 +4,7 @@
  * [[浏览器导入安全证书]]
  * [[ubuntu下宏包latex安装]]
  * [[Bash Shell常用快捷键]]
+ * [[ubuntu把/tmp目录挂载到内存]]
 
 **vim**
  * [[vim列编辑]]
