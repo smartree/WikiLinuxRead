@@ -5,6 +5,7 @@
  * [[ubuntu下宏包latex安装]]
  * [[Bash Shell常用快捷键]]
  * [[ubuntu把/tmp目录挂载到内存]]
+ * [[tar命令]]
 
 **vim**
  * [[vim列编辑]]
