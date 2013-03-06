@@ -9,7 +9,8 @@
 
 **vim**
  * [[vim列编辑]]
-  
-**mac**
  * [[mac下vim编译安装]]
  * [[mac下vim taglist无效解决方法]]
+
+**Tools**
+ * [[Source Insight添加.cc文件]]
