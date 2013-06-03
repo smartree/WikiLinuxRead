@@ -15,9 +15,11 @@
 * `ctrl+d`: 删除光标后一个字符（相当于delete）
 * `ctrl+u`: 删除光标左边所有
 * `ctrl+k`: 删除光标右边所有
-* ‘ctrl+l’: 清屏
+* `ctrl+l`: 清屏
 
 ##其它
 * `ctrl+n`: 下一条命令
 * `ctrl+p`: 上一条命令
+* `shift+PageUp`: 向上翻页
+* `shift+PageDown`: 向下翻页
 * `ctrl+r`: 进入历史查找命令记录， 输入关键字。 多次按返回下一个匹配项
