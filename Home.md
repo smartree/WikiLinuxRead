@@ -14,6 +14,7 @@
  * [[mac下vim taglist无效解决方法]]
 
 **Tools**
+ * [[gdb cgdb命令]]
  * [[Source Insight添加.cc文件]]
  * [[Source Insight快捷键]]
 
