@@ -22,6 +22,7 @@
 **Others**
  * [[CRLF换行符]]
  * [[Git autocrlf设置]]
+ * [[Git reflog数据恢复命令]]
 
 **Chromium-Dev tips**
 * [[chrome带有whitelist的API browser_tests测试]]
