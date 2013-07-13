@@ -1,6 +1,6 @@
 **启动白名单的web app**
 
-命令行参数：`chrome.exe --whitelisted_extension_id=XXX`。
+命令行参数：`chrome.exe --whitelisted-extension-id=XXX`。
 extension_id查看方法，load进chromium后在extension页面查看
 
 `manifestion.json`文件`key`域，官方文档解释：
