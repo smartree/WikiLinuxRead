@@ -26,5 +26,6 @@
 
 **Chromium-Dev tips**
 * [[chrome带有whitelist的API browser_tests测试]]
+* [[Git跟踪rename文件]]
 
 ###[[Reading-Notes]]
