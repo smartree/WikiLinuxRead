@@ -27,5 +27,6 @@
 **Chromium-Dev tips**
 * [[chrome带有whitelist的API browser_tests测试]]
 * [[Git跟踪rename文件]]
+* [[VS编译Waring：nonstandard extension used: enum 'enum' used in qualified name]]
 
 ###[[Reading-Notes]]
