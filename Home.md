@@ -7,6 +7,7 @@
  * [[Bash Shell常用快捷键]]
  * [[ubuntu把/tmp目录挂载到内存]]
  * [[tar命令]]
+ * [[voyager12.04 apt-get install无法安装解决方法]]
 
 **vim**
  * [[vim列编辑]]
