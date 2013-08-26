@@ -9,6 +9,7 @@
  * [[tar命令]]
  * [[voyager12.04 apt-get install无法安装解决方法]]
  * [[terminal shows git branch]]
+ * [[编译GTK API源程序]]
 
 **vim**
  * [[vim列编辑]]
