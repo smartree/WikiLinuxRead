@@ -10,6 +10,7 @@
  * [[voyager12.04 apt-get install无法安装解决方法]]
  * [[terminal shows git branch]]
  * [[编译GTK API源程序(附带pkg-config用法)]]
+ * [[ldconfig检查库是否存在]]
 
 **vim**
  * [[vim列编辑]]
