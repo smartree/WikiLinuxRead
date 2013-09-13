@@ -11,6 +11,7 @@
  * [[terminal shows git branch]]
  * [[编译GTK API源程序(附带pkg-config用法)]]
  * [[ldconfig检查库是否存在]]
+ * [[Googletest Setup&Install]]
 
 **vim**
  * [[vim列编辑]]
