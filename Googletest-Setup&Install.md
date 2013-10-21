@@ -47,7 +47,7 @@ int main(int argc, char* argv[]) {
 
 Compile with commands:
 ```
-g++ -o main main.cpp -lpthread -lgtest --gtest_main
+g++ -o main main.cpp -lpthread -lgtest -lgtest_main
 ```
 
 ##Reference
