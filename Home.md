@@ -13,6 +13,9 @@
  * [[ldconfig检查库是否存在]]
  * [[Googletest Setup&Install]]
 
+**Programming**
+ * [[c++unsigned类型提升]]
+
 **vim**
  * [[vim列编辑]]
  * [[vim编辑二进制文件]]
