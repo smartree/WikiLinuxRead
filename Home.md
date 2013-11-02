@@ -21,6 +21,7 @@
  * [[vim编辑二进制文件]]
  * [[mac下vim编译安装]]
  * [[mac下vim taglist无效解决方法]]
+ * [[MacOS shortcuts]]
 
 **Tools**
  * [[gdb cgdb命令]]
