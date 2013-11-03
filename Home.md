@@ -21,14 +21,15 @@
  * [[vim编辑二进制文件]]
  * [[mac下vim编译安装]]
  * [[mac下vim taglist无效解决方法]]
- * [[MacOS shortcuts]]
-
+  
 **Tools**
  * [[gdb cgdb命令]]
  * [[Source Insight添加.cc文件]]
  * [[Source Insight快捷键]]
  * [[GPT分区转MBR分区]]
  * [[IRC工具Pidgin使用]]
+ * [[iTerm2 shortcuts]]
+ * [[MacOS shortcuts]]
 
 **Others**
  * [[CRLF换行符]]
