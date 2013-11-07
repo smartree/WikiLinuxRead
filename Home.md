@@ -30,6 +30,7 @@
  * [[IRC工具Pidgin使用]]
  * [[iTerm2 shortcuts]]
  * [[MacOS shortcuts]]
+ * [[Compile/Run JUnitTest in Command Line]]
 
 **Others**
  * [[CRLF换行符]]
