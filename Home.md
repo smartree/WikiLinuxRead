@@ -31,6 +31,7 @@
  * [[iTerm2 shortcuts]]
  * [[MacOS shortcuts]]
  * [[Compile/Run JUnitTest in Command Line]]
+ * [[Install Python2.7 on CentOS 6.4]]
 
 **Others**
  * [[CRLF换行符]]
