@@ -18,5 +18,5 @@ Donwload python2.7 source and install:
 # ./configure --prefix=/usr/local
 # make && make altinstall
 ```
-Pay attantation to **altinstall*, not install. 
+Pay attantation to **altinstall**, not install. 
  
