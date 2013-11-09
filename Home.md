@@ -32,11 +32,12 @@
  * [[MacOS shortcuts]]
  * [[Compile/Run JUnitTest in Command Line]]
  * [[Install Python2.7 on CentOS 6.4]]
-
+ 
 **Others**
  * [[CRLF换行符]]
  * [[Git autocrlf设置]]
  * [[Git reflog数据恢复命令]]
+ * [[how to migrate from SVN repo to Git repo]]
 
 **Chromium-Dev tips**
 * [[chrome带有whitelist的API browser_tests测试]]
