@@ -12,6 +12,7 @@
  * [[编译GTK API源程序(附带pkg-config用法)]]
  * [[ldconfig检查库是否存在]]
  * [[Googletest Setup&Install]]
+ * [[Centos设置service开机自动启动]]
 
 **Programming**
  * [[c++unsigned类型提升]]
