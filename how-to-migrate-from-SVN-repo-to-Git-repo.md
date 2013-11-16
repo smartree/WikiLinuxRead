@@ -1,16 +1,23 @@
 Create a user.txt files for mapping programmers to Git:
 
 ```
-Abc = name@email.com
-bcd = name@email.com
+Abc = Abc@email.com
+bcd = bcd@email.com
 ```
 
 Then run the following commands:
 ```
-git svn clone --stdlayout --no-metadata -A users.txt svn://hostname/path dest_dir-tmp
-cd dest_dir-tmp
-git svn fetch
+// If svn repo is std repo, use -s option
+git svn clone svn://hostname/path --authors-file=user.txt
+// update with svn repo
+git svn rebase
+// show svn ignore files
+git svn show-ignore
 ```
 
-Reference: <http://stackoverflow.com/questions/79165/how-to-migrate-svn-with-history-to-a-new-git-repository>
+Reference: 
+
+<http://viget.com/extend/effectively-using-git-with-subversion>
+
+<http://stackoverflow.com/questions/79165/how-to-migrate-svn-with-history-to-a-new-git-repository>
 
