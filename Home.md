@@ -13,6 +13,7 @@
  * [[ldconfig检查库是否存在]]
  * [[Googletest Setup&Install]]
  * [[Centos设置service开机自动启动]]
+ * [[CentOS create admin user]]
 
 **Programming**
  * [[c++unsigned类型提升]]
