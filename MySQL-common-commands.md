@@ -16,5 +16,5 @@ sql> flush privileges;
 
 ```
 $ mysqldump -u <username> -p <password> --opt database > backup.sql
-$ mysqld -u <username> -p <password> < backup.sql
+$ mysqld -u <username> -p <password> <database_name> < backup.sql
 ```
