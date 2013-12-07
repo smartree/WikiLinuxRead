@@ -14,6 +14,7 @@
  * [[Googletest Setup&Install]]
  * [[Centos设置service开机自动启动]]
  * [[CentOS create admin user]]
+ * [[设置时区]]
 
 **Programming**
  * [[c++unsigned类型提升]]
