@@ -15,6 +15,7 @@
  * [[Centos设置service开机自动启动]]
  * [[CentOS create admin user]]
  * [[设置时区]]
+ * [[MySQL修改root密码]]
 
 **Programming**
  * [[c++unsigned类型提升]]
