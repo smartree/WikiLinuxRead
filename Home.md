@@ -19,6 +19,7 @@
 
 **Programming**
  * [[c++unsigned类型提升]]
+ * [[extern "C"]]
 
 **vim**
  * [[vim列编辑]]
