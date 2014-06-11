@@ -16,6 +16,7 @@
  * [[CentOS create admin user]]
  * [[设置时区]]
  * [[MySQL修改root密码]]
+ * [[Screen使用]]
 
 **Programming**
  * [[c++unsigned类型提升]]
