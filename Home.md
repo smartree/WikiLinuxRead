@@ -38,7 +38,8 @@
  * [[MacOS shortcuts]]
  * [[Compile/Run JUnitTest in Command Line]]
  * [[Install Python2.7 on CentOS 6.4]]
- 
+ * [[Install vmware tool on ubuntu server 12.04]]
+
 **Others**
  * [[CRLF换行符]]
  * [[Git autocrlf设置]]
