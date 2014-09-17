@@ -17,6 +17,7 @@
  * [[设置时区]]
  * [[MySQL修改root密码]]
  * [[Screen使用]]
+ * [[环境变量]]
 
 **Programming**
  * [[c++unsigned类型提升]]
