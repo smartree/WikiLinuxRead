@@ -18,6 +18,7 @@
  * [[MySQL修改root密码]]
  * [[Screen使用]]
  * [[环境变量]]
+ * [[Unity桌面环境的desktop文件]]
 
 **Programming**
  * [[c++unsigned类型提升]]
