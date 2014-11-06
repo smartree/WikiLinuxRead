@@ -16,6 +16,7 @@
  * [[CentOS create admin user]]
  * [[设置时区]]
  * [[MySQL修改root密码]]
+ * [[MySQL常用命令]]
  * [[Screen使用]]
  * [[环境变量]]
  * [[Unity桌面环境的desktop文件]]
