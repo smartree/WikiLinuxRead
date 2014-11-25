@@ -43,6 +43,7 @@
  * [[Install Python2.7 on CentOS 6.4]]
  * [[Install vmware tool on ubuntu server 12.04]]
  * [[node-gyp Usage]]
+ * [[zsh中文乱码解决方法]]
 
 **Others**
  * [[CRLF换行符]]
