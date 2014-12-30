@@ -1,3 +1,5 @@
+`cmd+<Number>`: switch to the <Number> tab
+
 `cmd+d`: split panel veritically
 
 `cmd+shift+d`: split panel horizontally
