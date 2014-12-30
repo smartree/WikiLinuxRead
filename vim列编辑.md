@@ -3,7 +3,7 @@
 
   1. 在normal模式下按`ctrl+v`进入列编辑模式
   2. 通过`hjkl`选中编辑的区域.
-  3. `shift+i`
+  3. `shift+i` 或者 `shift+a`
   4. 输入要插入的内容.
   5. `ctrl+\[`或`esc`
 
