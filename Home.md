@@ -52,6 +52,7 @@
  * [[Git reflog数据恢复命令]]
  * [[how to migrate from SVN repo to Git repo]]
  * [[Git submodule使用]]
+ * [[Git Pull强制更新]]
 
 **Chromium-Dev tips**
 * [[chrome带有whitelist的API browser_tests测试]]
