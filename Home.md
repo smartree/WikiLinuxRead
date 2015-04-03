@@ -21,6 +21,7 @@
  * [[环境变量]]
  * [[Unity桌面环境的desktop文件]]
  * [[zip和gzip文件区别]]
+ * [[Linux安全设置]]
 
 **Programming**
  * [[c++unsigned类型提升]]
