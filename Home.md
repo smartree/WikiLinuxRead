@@ -61,5 +61,6 @@
 * [[VS编译Waring：nonstandard extension used: enum 'enum' used in qualified name]]
 * [[VLOG(1) output]]
 * [[chromium版本]]
+* [[Chromium的`warning C4819: `编译错误]]
 
 ###[[Reading-Notes]]
