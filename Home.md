@@ -46,6 +46,7 @@
  * [[Install vmware tool on ubuntu server 12.04]]
  * [[node-gyp Usage]]
  * [[zsh中文乱码解决方法]]
+ * [[tmux快捷键]]
 
 **Others**
  * [[CRLF换行符]]
