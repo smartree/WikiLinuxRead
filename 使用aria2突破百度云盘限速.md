@@ -3,10 +3,10 @@
 
  * 选择`导出下载`，会有一个命令行，直接复制到命令下运行，会以命令行方式下载
  * `ARIA RPC`方式，则更友好，有Web界面管理，不过需要额外的工作：
-   2.2.1 创建`aria2.conf`设置文件，[参考](https://blog.icehoney.me/posts/2015-01-31-Aria2-download)
-   2.2.2 执行`aria2c --conf-path="/Users/xxxxxx/.aria2/aria2.conf" -D`
-   2.2.3 在百度网盘中，选中你想要下载的文件，然后选择`ARIA2 RPC`方式下载
-   2.2.4 在http://ziahamza.github.io/webui-aria2 查看和管理你的下载任务
+    * 创建`aria2.conf`设置文件，[参考](https://blog.icehoney.me/posts/2015-01-31-Aria2-download)
+    * 执行`aria2c --conf-path="/Users/xxxxxx/.aria2/aria2.conf" -D` 
+    * 在百度网盘中，选中你想要下载的文件，然后选择`ARIA2 RPC`方式下载 
+    * 在http://ziahamza.github.io/webui-aria2 查看和管理你的下载任务 
 
 
 
