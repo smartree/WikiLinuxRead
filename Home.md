@@ -48,6 +48,7 @@
  * [[node-gyp Usage]]
  * [[zsh中文乱码解决方法]]
  * [[tmux快捷键]]
+ * [[使用aria2突破百度云盘限速]]
 
 **Others**
  * [[CRLF换行符]]
