@@ -1,4 +1,5 @@
-###Tech-Notes
+### Tech-Notes
+
 **Linux**
  * [[ubuntu获取源码方法]]
  * [[gcc/g++常用命令]]
@@ -67,4 +68,4 @@
 * [[chromium版本]]
 * [[Chromium的`warning C4819: `编译错误]]
 
-###[[Reading-Notes]]
+### [[Reading-Notes]]
