@@ -2,7 +2,7 @@
 
 **LLVM/Clang**
  * [[[Clang源码解读]-SourceLocation]]
- * [[LLVM输出Debug信息]]
+ * [[LLVM输出Debug Log]]
 
 **Linux**
  * [[ubuntu获取源码方法]]
