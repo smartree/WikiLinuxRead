@@ -81,3 +81,8 @@ int main() {
    f2(true);
 }
 ```
+
+References:
+
+* [how can a unique_ptr be returned by value without move?](http://stackoverflow.com/questions/25885065/how-can-a-unique-ptr-be-returned-by-value-without-stdmove)
+* [what are copy elision and return value optimization?](http://stackoverflow.com/questions/12953127/what-are-copy-elision-and-return-value-optimization/12953145#12953145)
