@@ -4,6 +4,11 @@
  * [[[Clang源码解读]-SourceLocation]]
  * [[LLVM输出Debug Log]]
 
+**C/C++**
+ * [[为什么能在函数中以by value方式返回unique_ptr?]]
+ * [[c++unsigned类型提升]]
+ * [[extern "C"]]
+
 **Linux**
  * [[ubuntu获取源码方法]]
  * [[gcc/g++常用命令]]
@@ -28,11 +33,7 @@
  * [[zip和gzip文件区别]]
  * [[Linux安全设置]]
 
-**Programming**
- * [[c++unsigned类型提升]]
- * [[extern "C"]]
-
-**vim**
+**Vim**
  * [[vim列编辑]]
  * [[vim编辑二进制文件]]
  * [[vim quickfix窗口]]
