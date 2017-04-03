@@ -1,5 +1,5 @@
 1. 安装[`aria2`](https://aria2.github.io/): `brew install aria2`(OSX)，`sudo apt-get install aria2`(Linux)
-2. 安装Chrome的扩展[百度网盘助手](https://chrome.google.com/webstore/detail/baiduexporter/mjaenbjdjmgolhoafkohbhhbaiedbkno), 扩展安装后，在百度云盘上选中文件，会多出一个`导出下载`的选项。选项里面有`Aria2 RPC`和`导出下载`两种方式：
+2. 安装Chrome的扩展[百度网盘助手](https://chrome.google.com/webstore/detail/baiduexporter/mjaenbjdjmgolhoafkohbhhbaiedbkno) (https://github.com/acgotaku/BaiduExporter), 扩展安装后，在百度云盘上选中文件，会多出一个`导出下载`的选项。选项里面有`Aria2 RPC`和`导出下载`两种方式：
 
  * 选择`导出下载`，会有一个命令行，直接复制到命令下运行，会以命令行方式下载
  * `ARIA RPC`方式，则更友好，有Web界面管理，不过需要额外的工作：
