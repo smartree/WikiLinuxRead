@@ -42,6 +42,7 @@
  * [[Vim对多行重复操作]]
  * [[mac下vim编译安装]]
  * [[mac下vim taglist无效解决方法]]
+ * [[Vim 配置vim-airline]]
   
 **Tools**
  * [[gdb cgdb命令]]
