@@ -20,6 +20,10 @@ let g:airline_symbols.branch = ''
 let g:airline_symbols.readonly = ''
 let g:airline_symbols.linenr = ''
 let g:airline#extensions#tabline#enabled = 1
+" show absolute file path in status line
+let g:airline_section_c = '%<%F%m %#__accent_red#%{airline#util#wrap(airline#parts#readonly(),0)}%#__restore__#'
+" show tab number in tab line
+let g:airline#extensions#tabline#tab_nr_type = 1
 ```
    * 重启 vim会发现状态栏发生变化，但是箭头有可能不对齐，没有一个统一的解决方法([powerline/fonts#31](https://github.com/powerline/fonts/issues/31))。在 Mac (iterm2)机器上，箭头就没有对齐，解决方法：在 Iterm2设置`Non-ASCII`字体：在尝试了所有Powerline 字体，`13pt Meslo LG L DZ regular for Powerline`效果是最满意的。
 
