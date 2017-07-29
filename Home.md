@@ -5,6 +5,7 @@
  * [[LLVM输出Debug Log]]
 
 **C/C++**
+ * [[{}-list Initialization]]
  * [[Empty macro arguments]]
  * [[为什么能在函数中以by value方式返回unique_ptr?]]
  * [[c++unsigned类型提升]]
