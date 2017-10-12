@@ -1,5 +1,7 @@
+### Tech-Notes
+
 **LLVM/Clang**
- * [[[Clang源码解读]-SourceLocation]]
+ * [Clang源码解读-SourceLocation](https://github.com/hokein/Wiki/wiki/%5BClang%E6%BA%90%E7%A0%81%E8%A7%A3%E8%AF%BB%5D-SourceLocation)
  * [[LLVM输出Debug Log]]
 
 **C/C++**
@@ -22,7 +24,7 @@
  * [[terminal shows git branch]]
  * [[编译GTK API源程序(附带pkg-config用法)]]
  * [[ldconfig检查库是否存在]]
- * [[Googletest Setup&Install]]
+ * [Googletest Setup&Install](https://github.com/hokein/Wiki/wiki/Googletest-Setup%26Install)
  * [[Centos设置service开机自动启动]]
  * [[CentOS create admin user]]
  * [[设置时区]]
@@ -75,4 +77,6 @@
 * [[VS编译Waring：nonstandard extension used: enum 'enum' used in qualified name]]
 * [[VLOG(1) output]]
 * [[chromium版本]]
-* [[Chromium的`warning C4819: `编译错误]]
+* [Chromium的`warning C4819: `编译错误](https://github.com/hokein/Wiki/wiki/Chromium%E7%9A%84%60warning-C4819%3A-%60%E7%BC%96%E8%AF%91%E9%94%99%E8%AF%AF)
+
+### [[Reading-Notes]]
