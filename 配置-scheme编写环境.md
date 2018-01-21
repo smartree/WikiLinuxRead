@@ -1,9 +1,9 @@
 以`OS X`为事例：
 
 1. 安装`mit-scheme`: `brew install mit-scheme`
-2. 安装`wlwrap`: `brew install wlrap`
+2. 安装`rlwrap`: `brew install rlwrap`
 3. 下载这个[list](https://gist.githubusercontent.com/bobbyno/3325982/raw/fc0208d287e56adc12b4c76114fcd21a107082ad/mit_scheme_bindings.txt), 保存到`$HOME/.scheme_completion.txt`
-4. 执行`wlwrap -r -c -f `$HOME`/.scheme_completion scheme` 进入`mit-scheme`终端，编写程序。
+4. 执行`wlwrap -r -c -f "$HOME"/.scheme_completion.txt scheme` 进入`mit-scheme`终端，编写程序。
 
 
 **Note**: 
