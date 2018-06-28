@@ -63,6 +63,7 @@
  * [[tmux快捷键]]
  * [[使用aria2突破百度云盘限速]]
  * [[配置 scheme编写环境]]
+ * [[How to list all available targets in ninja]]
 
 **Others**
  * [[CRLF换行符]]
