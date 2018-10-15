@@ -13,7 +13,7 @@ renamed: .../old_name.cc -> .../new_name.cc
 
 `git diff HEAD -M20`命令可以设置similarity的值，根据similarity的值，显示出renamed或者new的信息。
 
-###Chromium code review显示renamed diff信息
+### Chromium code review显示renamed diff信息
 
 显示renamed的diff信息，这样的diff会有前后对比，方便reviewer review代码，不会像new那样代码全部显示+的。
 
