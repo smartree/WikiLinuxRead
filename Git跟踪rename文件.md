@@ -22,3 +22,5 @@ chromium CL 上传可以通过similarity选项设置阀值，使codereview.com�
 ```
 git cl upload --similarity=XXX //XX是相似百分比
 ```
+
+### IntelliJ IDEA集成Git功能后，也可以查看重命名文件前后的日志和内容对比
