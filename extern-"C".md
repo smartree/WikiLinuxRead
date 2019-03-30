@@ -36,7 +36,7 @@ int main(int argc, char* argv[]) {
 //Generate cExample.o file
 gcc -c cExample.c
 g++ -c cppExample.cpp
-g++ -o cExample.o cppExample.cpp -o main
+g++ cppExample.cpp cExample.o -o main
 ```
 
 注意，如果`cppExample.cpp`中没有`extern "c"`的话，会在最后一步链接的时候出错。
