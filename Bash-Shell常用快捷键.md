@@ -10,10 +10,10 @@
 ## 编辑命令
 * `alt+.`: 粘帖最后一次命令最后的参数（通常用于`mkdir long-long-dir`后, `cd`配合着`alt+.`）
 * `alt+d`: 删除当前光标到临近右边单词开始(delete)
-* `ctrl+u`: 删除当前光标到临近左边单词结束(word)
+* `ctrl+u`: 删除光标左边所有
 * `ctrl+h`: 删除光标前一个字符（相当于backspace）
 * `ctrl+d`: 删除光标后一个字符（相当于delete）
-* `ctrl+w`: 删除光标左边所有
+* `ctrl+w`: 删除当前光标到临近左边单词结束(word)
 * `ctrl+k`: 删除光标右边所有
 * `ctrl+l`: 清屏
 * `ctrl+shift+c`: 复制（相当于鼠标左键拖拽）
